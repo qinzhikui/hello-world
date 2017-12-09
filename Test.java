@@ -3,5 +3,5 @@ public class Test{
         System.out.println("successfully!");
     }
     private  int index;
-    
+    private String name;
 }
